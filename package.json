@@ -14,7 +14,14 @@
   "author": "Néstor Flores",
   "license": "MIT",
   "bin": {
-    "random-messages": "./bin/global.js",
-    "preferGlobal": true
-  }
+    "random-messages": "bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NestorJF/nesjf-npm-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NestorJF/nesjf-npm-random-messages/issues"
+  },
+  "homepage": "https://github.com/NestorJF/nesjf-npm-random-messages#readme"
 }
