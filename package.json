@@ -1,0 +1,20 @@
+{
+  "name": "nesjf-random-messages",
+  "version": "1.0.0",
+  "description": "Creates random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "javascript",
+    "messages"
+  ],
+  "author": "Néstor Flores",
+  "license": "MIT",
+  "bin": {
+    "random-messages": "./bin/global.js",
+    "preferGlobal": true
+  }
+}
